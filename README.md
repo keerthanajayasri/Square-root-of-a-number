@@ -22,9 +22,20 @@ Developed by:
 RegisterNumber:  
 */
 ```
+def new(number,number_iters=100):
+    a=float(number)
+    for i in range(number_iters):
+        number=0.5*(number+a/number)
+    return number
+    
+a=int(input())
+print("Square root of the number:",new(a))
+![Screenshot (19)](https://user-images.githubusercontent.com/121163440/213866275-8f5c7cfd-6d95-4144-b7ec-7baa812827e0.png)
+
 
 ## Output:
-![gcd of two number](gcd.png)
+![gcd of two number](gcd.png)![Screenshot (19)](https://user-images.githubusercontent.com/121163440/213866284-397504ad-6da9-4307-9e6d-3f18571cf232.png)
+
 
 
 ## Result:
