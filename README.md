@@ -30,7 +30,7 @@ def new(number,number_iters=100):
     
 a=int(input())
 print("Square root of the number:",new(a))
-![Screenshot (19)](https://user-images.githubusercontent.com/121163440/213866275-8f5c7cfd-6d95-4144-b7ec-7baa812827e0.png)
+
 
 
 ## Output:
