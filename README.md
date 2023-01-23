@@ -34,7 +34,7 @@ print("Square root of the number:",new(a))
 
 
 ## Output:
-![gcd of two number](gcd.png)![Screenshot (19)](https://user-images.githubusercontent.com/121163440/213866284-397504ad-6da9-4307-9e6d-3f18571cf232.png)
+![](gcd.png)![Screenshot (19)](https://user-images.githubusercontent.com/121163440/213866284-397504ad-6da9-4307-9e6d-3f18571cf232.png)
 
 
 
